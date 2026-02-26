@@ -2,8 +2,8 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 
 const galleryImages = [
   {
-    url: 'https://images.unsplash.com/photo-1549236177-cac7f36d08fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHN0eWxlZCUyMGhhaXJ8ZW58MXx8fHwxNzcwNzA0NjExfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    alt: 'Beautiful styled hair'
+    url: '/images/gallery/boho.jpg',
+    alt: 'Beautiful sttyled boho'
   },
   {
     url: 'https://images.unsplash.com/photo-1763048208932-cbe149724374?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBoYWlyc3R5bGlzdCUyMHdvcmtpbmd8ZW58MXx8fHwxNzcwNjg5MTY5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
@@ -14,15 +14,15 @@ const galleryImages = [
     alt: 'Beautiful nail art'
   },
   {
-    url: 'https://images.unsplash.com/photo-1763771444803-64684b6cae65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiZWF1dGlmdWwlMjB3aWclMjBzdHlsaW5nfGVufDF8fHx8MTc3MDcwNDYxMHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    alt: 'Wig styling'
+    url: '/images/gallery/locs.jpg',
+    alt: 'locs installation'
   },
   {
-    url: 'https://images.unsplash.com/photo-1759134155377-4207d89b39ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBoYWlyJTIwc2Fsb24lMjBpbnRlcmlvcnxlbnwxfHx8fDE3NzA3MDQ2MDl8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-    alt: 'Luxury salon interior'
+    url: '/images/gallery/Marley-braids.jpg',
+    alt: 'Marley braids'
   },
   {
-    url: 'https://images.unsplash.com/photo-1763873993447-1d0be71a96d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzYWxvbiUyMHJlY2VwdGlvbiUyMGVsZWdhbnR8ZW58MXx8fHwxNzcwNzA0NjExfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+    url: '/images/gallery/french-curls.jpg',
     alt: 'Elegant salon reception'
   }
 ];

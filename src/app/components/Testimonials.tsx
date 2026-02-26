@@ -3,46 +3,46 @@ import { Card, CardContent } from './ui/card';
 
 const testimonials = [
   {
-    name: 'Amina Hassan',
+    name: 'Kinya',
     service: 'Butterfly Locs',
     rating: 5,
-    text: 'The best salon in Nairobi! My butterfly locs came out absolutely perfect. The team is professional, the space is clean, and the prices are very reasonable. I always come back here!',
-    image: 'https://images.unsplash.com/photo-1549236177-cac7f36d08fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=150&h=150'
+    text: 'The best salon in Nairobi! My butterfly locs came out absolutely perfect. The team is professional, the space is clean, and the prices are very reasonable. I will be back!',
+    image: '/images/gallery/user.png'
   },
   {
-    name: 'Faith Wanjiru',
+    name: 'Faith ',
     service: 'Acrylic Nails',
     rating: 5,
-    text: 'I have been coming to Glammed Beauty Hub for over a year now. Their nail services are exceptional! My acrylics always last long and look stunning. The nail technicians are so talented.',
-    image: 'https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=150&h=150'
+    text: 'I got my nails done here. Beautiful work',
+    image: '/images/gallery/user.png'
   },
   {
     name: 'Mercy Akinyi',
     service: 'Cornrows',
     rating: 5,
-    text: 'Amazing service! I got cornrows done and they were so neat and lasted for weeks. The location is very convenient on Tom Mboya Street. Highly recommend!',
-    image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=150&h=150'
+    text: 'Amazing service! I got cornrows done and they were so neat and lasted for weeks.',
+    image: '/images/gallery/user.png'
   },
   {
-    name: 'Grace Njeri',
+    name: 'Grace ',
     service: 'Goddess Braids',
     rating: 5,
-    text: 'Love the attention to detail at Glammed Beauty Hub! My goddess braids were beautifully done and the stylists really listen to what you want. Very professional team.',
-    image: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=150&h=150'
+    text: 'Love the attention to detail at Glammed Beauty Hub! My goddess braids were beautifully done. Very professional team.',
+    image: '/images/gallery/user.png'
   },
   {
     name: 'Sharon Muthoni',
     service: 'Gel Manicure',
     rating: 5,
-    text: 'Clean, hygienic, and great service! I always get my gel manicures here and they never disappoint. The staff is friendly and the atmosphere is very relaxing.',
-    image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=150&h=150'
+    text: 'Clean, hygienic, and great service! The staff is friendly and the atmosphere is very relaxing.',
+    image: '/images/gallery/user.png'
   },
   {
     name: 'Caroline Adhiambo',
     service: 'Spring Twist',
     rating: 5,
-    text: 'Excellent work on my spring twists! They are lightweight and look so natural. The team at Glammed Beauty Hub are true professionals. Will definitely be back!',
-    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=150&h=150'
+    text: 'Excellent work on my spring twists! They are lightweight and look so natural. ',
+    image: '/images/gallery/user.png'
   }
 ];
 
