@@ -1,4 +1,4 @@
-
+/** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
     remotePatterns: [
@@ -14,8 +14,6 @@ const nextConfig = {
       },
     ],
   },
-  // For better performance
-  swcMinify: true,
   compress: true,
   // Enable React strict mode
   reactStrictMode: true,
