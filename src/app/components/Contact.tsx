@@ -71,7 +71,7 @@ export function Contact() {
             </div>
           </div>
 
-          <Card>
+          {/*<Card>
             <CardContent className="p-8">
               <h3 className="text-2xl mb-6">Send us a message</h3>
               <form className="space-y-4">
@@ -106,7 +106,7 @@ export function Contact() {
                 </Button>
               </form>
             </CardContent>
-          </Card>
+          </Card>*/}
         </div>
       </div>
     </section>

@@ -19,11 +19,11 @@ export function Header() {
         <div className="flex items-center justify-between py-4">
           <div className="flex items-center gap-2">
             <div className="w-10 h-10 bg-linear-to-br from-purple-600 to-pink-600 rounded-lg flex items-center justify-center">
-              <span className="text-white text-3xl font-bold">G</span>
+              <span className="text-white text-4xl font-bold">G</span>
             </div>
-            <h1 className="text-xl md:text-3xl font-bold bg-linear-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
+          {/*<h1 className="text-xl md:text-3xl font-bold bg-gradient-to-r from-purple-800 via-purple-600 to-blue-500 bg-clip-text text-transparent tracking-tight">
               Glammed Beauty Hub
-            </h1>
+          </h1>*/}
           </div>
 
           {/* Desktop Navigation */}
@@ -46,7 +46,7 @@ export function Header() {
           </nav>
 
           <div className="hidden md:block">
-            <Button className="bg-linear-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700">
+            <Button onClick={() => scrollToSection('contact')} className="bg-linear-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700">
               Book Now
             </Button>
           </div>
@@ -78,7 +78,7 @@ export function Header() {
             <button onClick={() => scrollToSection('contact')} className="text-left hover:text-purple-600 transition-colors">
               Contact
             </button>
-            <Button className="bg-linear-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700">
+            <Button onClick={() => scrollToSection('contact')} className="bg-linear-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700">
               Book Now
             </Button>
           </nav>
